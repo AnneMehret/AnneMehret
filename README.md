@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnneMehret
 - 🌱 I’m currently learning programming language;
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email address is anne.mehret@escola.pr.gov.br  
 
 <!---
